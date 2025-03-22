@@ -28,7 +28,7 @@ The `artistic_enhancement_loss` function is used to apply creative transformatio
 
 ## Deployment
 
-The model is deployed on [Hugging Face Spaces]https://huggingface.co/spaces/Rakavi12/Stable-Diffusion. 
+The model is deployed on [Hugging Face Spaces](https://huggingface.co/spaces/Rakavi12/Stable-Diffusion). 
 Please note that since it is running on a free CPU, it might take longer to process images.
 
 ## Contributing
